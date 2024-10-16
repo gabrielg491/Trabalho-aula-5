@@ -13,7 +13,7 @@ elif numero == 3:
 else:
     print("os numeros que digitou não corresponde ao que pedi, tente novamente!")
 
-numero2= int(input( 'se voce quer o equipamento curto digite 1 se quer o longo digite 2'))
+numero2= int(input( 'se voce quer o equipamento curto digite 1 se quer o longo digite 2:'))
 if numero2== 1:
     print("voce escolheu arma curta")
     arma= 'curta'
